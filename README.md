@@ -1,6 +1,6 @@
 # Exploring-Patterns-in-NBA-Stats
 
-![Alt Text]([URL](https://github.com/K-relay/Exploring-Patterns-in-NBA-Stats/blob/main/image.png?raw=true))
+![Alt Text](https://raw.githubusercontent.com/K-relay/Exploring-Patterns-in-NBA-Stats/main/image.png))
 
 Exploring NBA stats patterns
 
